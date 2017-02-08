@@ -1,0 +1,9 @@
+#test{
+  border:2px solid black;
+  padding:10px 40px 40px 40px;
+  margin-left:500px;
+  margin-right:500px;
+}
+body{
+  text-align:center;
+}
